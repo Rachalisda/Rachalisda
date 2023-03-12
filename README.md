@@ -1,4 +1,5 @@
-- 👋 Hi, I'm currently a student completing a bachelors degree with a major in Computer Science and a minor in Math.
+Hi, I'm Rachal Isdanavich
+- 👋 I'm currently a student completing a bachelors degree with a major in Computer Science and a minor in Math.
 - 👀 I love learning about tech and although I'm new at it, I can often be found studying artifical intelligence in my free time
 - 🌱 I’m currently learning new skills that can be applicable to my future career in Software Development
 
